@@ -1,23 +1,35 @@
-<h1 align="left">Hi 👋, I'm Luong Huu Thanh</h1>
-<h3 align=left"> AI Enthusiast | NLP & LLM Researcher </h3>
-<text align="left">🚀 Passionate about AI-driven solutions, I specialize in solving software engineering challenges using NLP and LLMs. Currently pursuing a B.Sc. in Data Science & Artificial Intelligence at Hanoi University of Science and Technology.</text>
+# 👋 Hi, I’m Luong Huu Thanh
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://kaggle.com/huthnhlng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="huthnhlng" height="30" width="40" /></a>
-<a href="https://instagram.com/fisher_man611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fisher_man611" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/thanhhuuluong11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thanhhuuluong11" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/fisherman611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fisherman611" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/fisherman11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="fisherman11" height="30" width="40" /></a>
-</p>
+🎓 Data Science & Artificial Intelligence student @ HUST (Hanoi University of Science and Technology)  
+🔬 Passionate about Natural Language Processing (NLP) and Large Language Models (LLMs)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 🧠 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fisherman611&show_icons=true&locale=en&layout=compact" alt="fisherman611" /></p>
+* Passionate about building intelligent systems that understand and generate human language 💡.  
+* Focused on Natural Language Processing (NLP) — including topic modeling, machine translation, and retrieval-augmented generation (RAG) 🗣️.  
+* Always exploring new ideas, collaborating on impactful projects, and growing through continuous learning 🔍.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fisherman611&show_icons=true&locale=en" alt="fisherman611" /></p>
+## 📈 GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fisherman611&" alt="fisherman611" /></p>
+![Thanh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fisherman611&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fisherman611&layout=compact&theme=radical)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fisherman611" alt="fisherman611" /></a> </p>
+## 🛠️ Tech Stack
+* **Programming Languages:** Python, Java, C, JavaScript, HTML/CSS  
+* **Frameworks:** PyTorch, TensorFlow, Scikit-learn  
+* **Tools:** Git/GitHub, VS Code, Jupyter Notebook, Intellij, LaTeX
+
+<!--## 🚀 Projects
+
+
+
+## 🏆 Achievements & Certifications -->
+
+
+## 📬 Connect with Me
+
+- GitHub: https://github.com/fisherman611
+- Email: thanhhuuluong11@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/hữu-thành-lương-1a92a7322/)
+
+
