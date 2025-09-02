@@ -31,5 +31,6 @@
 - GitHub: https://github.com/fisherman611
 - Email: thanhhuuluong11@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/hữu-thành-lương-1a92a7322/)
+- HuggingFace: https://huggingface.co/fisherman611
 
 
