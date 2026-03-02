@@ -9,10 +9,10 @@
 * Focused on Natural Language Processing (NLP) — including topic modeling, machine translation, and retrieval-augmented generation (RAG) 🗣️.  
 * Always exploring new ideas, collaborating on impactful projects, and growing through continuous learning 🔍.
 
-<!--## 📈 GitHub Stats
+## 📈 GitHub Stats
 
 ![Thanh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fisherman611&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fisherman611&layout=compact&theme=radical) -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fisherman611&layout=compact&theme=radical)
 
 ## 🛠️ Tech Stack
 * **Programming Languages:** Python, Java, C, JavaScript, HTML/CSS  
